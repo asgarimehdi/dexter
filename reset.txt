@@ -1,0 +1,1 @@
+UPDATE `dexter`.`darukade` SET `title_en` = '', `title_fa` = '', `type` = '', `sex` = '', `size` = '', `unit` = '', `company` = '', `group` = '', `enclosure` = '', `age` = '', `barcode` = '', `ax` = '', `price` = '', `site` = '', `place` = '', `tozihat` = '', `did` = '0' WHERE `darukade`.`id` ;
